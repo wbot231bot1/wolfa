@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
 <p align="center">
-<img src="https://i.ibb.co/82zgjSR/20220926-155611.png" alt="nz" width="350"/>
+<img src="https://i.ibb.co/84w4VZw/Whats-App-Image-2022-11-03-at-19-32-10.jpg" alt="nz" width="350"/>
 </p>
 
 ## 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 -𝗕𝗢𝗧࿐   Version 12.0
@@ -37,7 +37,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 <p align="center">
 
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
+<img src="https://i.ibb.co/84w4VZw/Whats-App-Image-2022-11-03-at-19-32-10.jpg" alt="nz" width="350"/>
 
 </p>
 
